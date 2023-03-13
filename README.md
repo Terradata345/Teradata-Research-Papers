@@ -2,6 +2,6 @@
 Details of Published teradata papers.
 
 
-#Refer academia.eu
+#Refer academia.edu
 
 

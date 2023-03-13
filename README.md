@@ -1,2 +1,5 @@
 # Teradata-Research-Papers
-Details of Unpublished teradata papers 
+Details of Published teradata papers.
+Refer academia.eu
+
+
